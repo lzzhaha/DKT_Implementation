@@ -1,0 +1,7 @@
+,Column name,example,description
+1,ITEST_id,8,a deidentified ID/tag used for identifying an individual student
+6,NumActions,1056,total number of student actions in system
+13,actionId,9950,the unique id of this specific action
+14,skill,properties-of-geometric-figures,"a tag used for identifying the cognitive skill related to the problem (see Razzaq, Heffernan, Feng, & Pardos, 2007)"
+19,endTime,1096470350,"when did the student end the problem (UNIX time, seconds)"
+21,correct,0,Answer is correct
