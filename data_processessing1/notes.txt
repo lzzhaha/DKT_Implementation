@@ -1,0 +1,13 @@
+features:
+
+
+
+1. number of responses
+
+2. skill id
+
+3. correctness
+
+
+
+no-skill : treated as on  specific skill
